@@ -1,5 +1,13 @@
 # Changelog
 
+## [26.100.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.99.0...v26.100.0) (2026-08-24)
+
+
+### Features
+
+* **add:** CS-T10C ([#12992](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12992)) ([0f317cf](https://github.com/Koenkk/zigbee-herdsman-converters/commit/0f317cf9618684fe8160a58965a4a0fd1dd1e690))
+* L&S Lighting 756200027: expose identify cluster ([#12978](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12978)) ([eeb2efa](https://github.com/Koenkk/zigbee-herdsman-converters/commit/eeb2efa73ac4ef7154a3b4d5d28e82f7ce8a19ab))
+
 ## [26.99.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.98.0...v26.99.0) (2026-08-22)
 
 
